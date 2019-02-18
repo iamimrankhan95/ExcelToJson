@@ -1,0 +1,42 @@
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.deps.json
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.runtimeconfig.json
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.runtimeconfig.dev.json
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.dll
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.pdb
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.csprojAssemblyReference.cache
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.csproj.CoreCompileInputs.cache
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.RazorAssemblyInfo.cache
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.RazorAssemblyInfo.cs
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.AssemblyInfoInputs.cache
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.AssemblyInfo.cs
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.RazorTargetAssemblyInfo.cache
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.dll
+/media/thanos/New Volume/Project/My Works/ExcelToJson/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.pdb
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.csprojAssemblyReference.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.csproj.CoreCompileInputs.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cs
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.AssemblyInfoInputs.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.AssemblyInfo.cs
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.deps.json
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.runtimeconfig.json
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.runtimeconfig.dev.json
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.dll
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.pdb
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.RazorTargetAssemblyInfo.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.dll
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.pdb
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.deps.json
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.runtimeconfig.json
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.runtimeconfig.dev.json
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.dll
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Debug\netcoreapp2.1\ExcelToJson.pdb
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.csprojAssemblyReference.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.csproj.CoreCompileInputs.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cs
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.AssemblyInfoInputs.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.AssemblyInfo.cs
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.RazorTargetAssemblyInfo.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.dll
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Debug\netcoreapp2.1\ExcelToJson.pdb

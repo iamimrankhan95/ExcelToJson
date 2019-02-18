@@ -1,0 +1,14 @@
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.deps.json
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.runtimeconfig.json
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.runtimeconfig.dev.json
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.dll
+D:\Project\My Works\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.pdb
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.csprojAssemblyReference.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.csproj.CoreCompileInputs.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cs
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.AssemblyInfoInputs.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.AssemblyInfo.cs
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorTargetAssemblyInfo.cache
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.dll
+D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.pdb
