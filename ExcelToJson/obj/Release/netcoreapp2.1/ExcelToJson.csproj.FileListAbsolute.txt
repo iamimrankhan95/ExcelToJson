@@ -12,3 +12,17 @@ D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJso
 D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorTargetAssemblyInfo.cache
 D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.dll
 D:\Project\My Works\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.pdb
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.deps.json
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.runtimeconfig.json
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.runtimeconfig.dev.json
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.dll
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\bin\Release\netcoreapp2.1\ExcelToJson.pdb
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.csprojAssemblyReference.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.csproj.CoreCompileInputs.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorAssemblyInfo.cs
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.AssemblyInfoInputs.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.AssemblyInfo.cs
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.RazorTargetAssemblyInfo.cache
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.dll
+X:\Imu007\Dropbox\My works\Office\ExcelToJson\ExcelToJson\obj\Release\netcoreapp2.1\ExcelToJson.pdb

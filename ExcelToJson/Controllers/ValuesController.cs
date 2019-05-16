@@ -28,14 +28,14 @@ namespace ExcelToJson.Controllers
         {
             return new string[] { "value1", "value2" };
         }
-        
+
         // GET api/values
         [HttpGet("excel/getJson")]
         public ActionResult GetJson()
         {
             Utility utility = new Utility();
             var webRoot = _env.WebRootPath;
-            FileInfo file = new FileInfo(System.IO.Path.Combine(webRoot, "savar-shivalay-manual data-v3.xlsx"));
+            FileInfo file = new FileInfo(System.IO.Path.Combine(webRoot, "Project Data.xlsx"));
             List<ProjectData> projectDataList = new List<ProjectData>();
             try
             {
@@ -60,15 +60,15 @@ namespace ExcelToJson.Controllers
                             }
                             if (worksheet.Cells[row, 2].Value != null)
                             {
-                                projectData.CODE_PART1 = worksheet.Cells[row, 2].Value.ToString(); ;
+                                projectData.CODE_PART1 = worksheet.Cells[row, 2].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 3].Value != null)
                             {
-                                projectData.CODE_PART2 = worksheet.Cells[row, 3].Value.ToString(); ;
+                                projectData.CODE_PART2 = worksheet.Cells[row, 3].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 4].Value != null)
                             {
-                                projectData.PROJECTTITLE = worksheet.Cells[row, 4].Value.ToString(); ;
+                                projectData.PROJECTTITLE = worksheet.Cells[row, 4].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 5].Value != null)
                             {
@@ -76,15 +76,15 @@ namespace ExcelToJson.Controllers
                             }
                             if (worksheet.Cells[row, 6].Value != null)
                             {
-                                projectData.SCHEMENAME_ENG = worksheet.Cells[row, 6].Value.ToString(); ;
+                                projectData.SCHEMENAME_ENG = worksheet.Cells[row, 6].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 7].Value != null)
                             {
-                                projectData.SCHEMENAME_BEN = worksheet.Cells[row, 7].Value.ToString(); ;
+                                projectData.SCHEMENAME_BEN = worksheet.Cells[row, 7].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 8].Value != null)
                             {
-                                projectData.PACKAGEID = worksheet.Cells[row, 8].Value.ToString(); ;
+                                projectData.PACKAGEID = worksheet.Cells[row, 8].Value.ToString(); 
                             }
 
                             if (worksheet.Cells[row, 9].Value != null)
@@ -93,11 +93,11 @@ namespace ExcelToJson.Controllers
                             }
                             if (worksheet.Cells[row, 10].Value != null)
                             {
-                                projectData.COMPONENTSUBHEADID = worksheet.Cells[row, 10].Value.ToString(); ;
+                                projectData.COMPONENTSUBHEADID = worksheet.Cells[row, 10].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 11].Value != null)
                             {
-                                projectData.COMPONENTSUBHEADNAME = worksheet.Cells[row, 11].Value.ToString(); ;
+                                projectData.COMPONENTSUBHEADNAME = worksheet.Cells[row, 11].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 12].Value != null)
                             {
@@ -113,11 +113,11 @@ namespace ExcelToJson.Controllers
                             }
                             if (worksheet.Cells[row, 15].Value != null)
                             {
-                                projectData.DISTRICTID = worksheet.Cells[row, 15].Value.ToString(); ;
+                                projectData.DISTRICTID = worksheet.Cells[row, 15].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 16].Value != null)
                             {
-                                projectData.ACOMPLETIONDATE = Utility.GetStandardFormattedDate(worksheet.Cells[row, 16].Value.ToString());
+                                projectData.ACOMPLETIONDATE = worksheet.Cells[row, 16].Value.ToString();
                             }
                             if (worksheet.Cells[row, 17].Value != null)
                             {
@@ -125,15 +125,15 @@ namespace ExcelToJson.Controllers
                             }
                             if (worksheet.Cells[row, 18].Value != null)
                             {
-                                projectData.CONTRACTSIGNDATE = Utility.GetStandardFormattedDate(worksheet.Cells[row, 18].Value.ToString());
+                                projectData.CONTRACTSIGNDATE = worksheet.Cells[row, 18].Value.ToString();
                             }
                             if (worksheet.Cells[row, 19].Value != null)
                             {
-                                projectData.FINANCIALYEAR = worksheet.Cells[row, 19].Value.ToString(); ;
+                                projectData.FINANCIALYEAR = worksheet.Cells[row, 19].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 20].Value != null)
                             {
-                                projectData.SCHEMECODE = worksheet.Cells[row, 20].Value.ToString(); ;
+                                projectData.SCHEMECODE = worksheet.Cells[row, 20].Value.ToString(); 
                             }
                             if (worksheet.Cells[row, 21].Value != null)
                             {
@@ -141,7 +141,23 @@ namespace ExcelToJson.Controllers
                             }
                             if (worksheet.Cells[row, 22].Value != null)
                             {
-                                projectData.STATUS = worksheet.Cells[row, 22].Value.ToString(); ;
+                                projectData.STATUS = worksheet.Cells[row, 22].Value.ToString(); 
+                            }
+                            if (worksheet.Cells[row, 23].Value != null)
+                            {
+                                projectData.COMMENCEMENTDATE = worksheet.Cells[row, 23].Value.ToString();
+                            }
+                            if (worksheet.Cells[row, 24].Value != null)
+                            {
+                                projectData.REMARKS = worksheet.Cells[row, 24].Value.ToString(); 
+                            }
+                            if (worksheet.Cells[row, 25].Value != null)
+                            {
+                                projectData.FINANCIALPROGRESS = worksheet.Cells[row, 25].Value.ToString(); 
+                            }
+                            if (worksheet.Cells[row, 26].Value != null)
+                            {
+                                projectData.LATLONG = worksheet.Cells[row, 26].Value.ToString();
                             }
 
                             projectDataList.Add(projectData);

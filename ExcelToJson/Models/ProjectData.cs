@@ -25,13 +25,17 @@ namespace ExcelToJson.Models
         public string ROADLENGTH { get; set; }
         public string DISTRICTID { get; set; }
         public string ISACTIVE { get; set; }
-        public DateTime ACOMPLETIONDATE { get; set; }
+        public string ACOMPLETIONDATE { get; set; }
         public string COMPONENTNAME { get; set; }
         public string CONTRACTORNAME { get; set; }
-        public DateTime CONTRACTSIGNDATE { get; set; }
+        public string CONTRACTSIGNDATE { get; set; }
         public string FINANCIALYEAR { get; set; }
         public string SCHEMECODE { get; set; }
         public string PHYSICALPROGGRESS { get; set; }
         public string STATUS { get; set; }
+        public string COMMENCEMENTDATE { get; set; }
+        public string REMARKS { get; set; }
+        public string FINANCIALPROGRESS { get; set; }
+        public string LATLONG { get; set; }
     }
 }
